@@ -1,3 +1,7 @@
+<img
+  alt="header"
+  src="images/solid-principles.png"
+/>
 #### This repository helps you to understand SOLID principles,if you have a little bit of knowledge of Java and Object-Oriented Programming
 
 Imagine you are building an e-commerce website with an online shopping cart functionality. Initially, you created a single class called ShoppingCart to handle all the operations related to the shopping cart, such as:
